@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Descripcion": "Castellano",
+    "TipoTitulo": [
+      {
+        "Id": "1",
+        "Descripcion": "Acción",
+        "DescripcionPlural": "Acciones"
+
+      },
+      {
+        "Id": "2",
+        "Descripcion": "Bono",
+        "DescripcionPlural": "Bonos"
+      }
+    ],
+    "TituloResumen": "Resumen de títulos",
+    "LeyendaResumenVacio": "¡Lista vacía de títulos!",
+    "LeyendaSimbolo": "Símbolo",
+    "LeyendaDetalle": "Detalle de"
+  },
+  {
+    "Id": 2,
+    "Descripcion": "Ingles",
+    "TipoTitulo": [
+      {
+        "Id": "1",
+        "Descripcion": "Stock",
+        "DescripcionPlural": "Stocks"
+
+      },
+      {
+        "Id": "2",
+        "Descripcion": "Bond",
+        "DescripcionPlural": "Bonds"
+      }
+    ],
+    "TituloResumen": "Securities report",
+    "LeyendaResumenVacio": "Empty list of securities!",
+    "LeyendaSimbolo": "Symbol",
+    "LeyendaDetalle": "Detail of"
+  }
+]

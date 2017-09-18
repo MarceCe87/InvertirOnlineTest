@@ -1,0 +1,295 @@
+﻿.boxDialogMensaje
+{
+   
+    border-right: inset 4px #E3E7EB;
+    border-bottom: inset 4px #E3E7EB;
+}
+.boxDialogMensaje
+{
+    
+    top: 100px;    
+    /*width: 200px;*/
+    background-color: #F4F4C8;
+    z-index: 2;
+    border: 0;
+}
+
+.boxDialogMensajeContenido
+{
+    padding: 0px;
+    border: solid 2px #888F0F;
+}
+
+.tablaDialogMensajeWrapper
+{
+    border: 1px solid #888F0F;
+    padding: 8px;
+    margin:4px;
+}
+.tablaDialog tr.bgAmarillo
+{
+    
+}
+.tablaDialog td
+{
+    height: 18px;
+    vertical-align: middle;
+    padding-left: 8px;
+}
+
+.boxDialogMensajeHeader
+{
+    background-color: #D8D7AB;
+    height: 21px;    
+    border-bottom: 1px solid #888F0F;
+}
+.boton
+{
+    height: 22px;
+    padding-bottom: 2px;
+    border: inner 1px #888F0F;
+    background-color: #E3E16F;
+    vertical-align: middle;
+    font-size: 8pt;
+    cursor: pointer;
+}
+
+/*.modal{
+    position:fixed;
+    left:0;
+    top:0;
+    background-color:#000;
+    opaCIty:0.6;
+    filter:alpha(opaCIty=60);
+    z-index:1;
+}*/
+
+.modal {
+  text-align: center;
+  padding: 0!important;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+/* # CONTENIDO # */
+#intranet-master-content {
+margin:20px;
+}
+#intranet-master-content h2 {
+/* margin:30px 0 15px 0; */
+font-family:arial,helvetica,sans-serif;
+font-size:14px;
+color:#DD6900;
+}
+#intranet-master-content div.clear { clear:both }
+/* CONTENIDO FIN */
+
+/* # NOTICIAS # */
+#intranet-master-content div.wrapper-notiCIas  { 
+margin-top:32px;
+*margin-top:15px; /* IE7 */
+}
+#intranet-master-content div.wrapper-notiCIas div.notiCIa {
+margin-bottom:40px;
+}
+#intranet-master-content div.wrapper-notiCIas h2 {
+/* margin-bottom:10px; */
+font-size:22px;
+font-weight:normal;
+}
+#intranet-master-content div.wrapper-notiCIas p {
+margin-top:10px;
+margin-bottom:10px;
+line-height:20px;
+font-family:"trebuchet ms", helvetica, sans-serif;
+font-size:14px;
+color:#666666;
+}
+#intranet-master-content div.wrapper-notiCIas  {
+margin-bottom:10px;
+line-height:20px;
+font-family:"trebuchet ms", helvetica, sans-serif;
+font-size:14px;
+color:#666666;
+width:70%;
+}
+#intranet-master-content div.wrapper-notiCIas .fechaPublicaCIon {
+font-size:12px;
+text-align:left;
+color:#999999;
+font-weight:normal !important;
+font-style:italic;
+}
+/* NOTICIAS FIN */
+
+/* # APLICACIONES - DOCUMENTOS # */
+#intranet-master-content div.wrapper-documentos h2 {
+font-size:22px;
+font-weight:normal;
+}
+#intranet-master-content div.wrapper-documentos .cantidadDocumento {
+font-size:12px;
+text-align:left;
+color:#999999;
+font-weight:normal !important;
+font-style:italic;
+}
+#intranet-master-content div.wrapper-documentos,
+#intranet-master-content div.wrapper-aplicaCIones  {
+margin-top:32px;
+*margin-top:15px; /* IE7 */
+}
+#intranet-master-content div.wrapper-documentos p,
+#intranet-master-content div.wrapper-aplicaCIones  p {
+font-family:"trebuchet ms", helvetica, sans-serif;
+font-size:14px;
+color:#666666;
+}
+#intranet-master-content div.wrapper-documentos  span.nota,
+#intranet-master-content div.wrapper-aplicaCIones span.nota {
+font-size:12px;
+font-style:italic;
+}
+#intranet-master-content div.wrapper-documentos .indentado,
+#intranet-master-content div.wrapper-aplicaCIones .indentado {
+margin-left:35px;
+margin-top:0;
+}
+#intranet-master-content div.wrapper-documentos div.columna,
+#intranet-master-content div.wrapper-aplicaCIones div.columna {
+float:left;
+width:285px;
+margin-top:25px;
+margin-right:28px;
+}
+#intranet-master-content div.wrapper-documentos  div.columna div.container,
+#intranet-master-content div.wrapper-aplicaCIones div.columna div.container {
+margin-bottom:25px;
+width:100%;
+}
+#intranet-master-content div.wrapper-documentos  div.columna div.container img,
+#intranet-master-content div.wrapper-aplicaCIones div.columna div.container img {
+float:left;
+}
+#intranet-master-content div.wrapper-documentos  div.columna div.container a,
+#intranet-master-content div.wrapper-aplicaCIones div.columna div.container a {
+text-decoration:none;
+font-family:"trebuchet ms", helvetica, sans-serif;
+font-size:14px;
+color:#DD6900;
+}
+#intranet-master-content div.wrapper-documentos  div.columna div.container a:hover,
+#intranet-master-content div.wrapper-aplicaCIones div.columna div.container a:hover {
+text-decoration:underline;
+}
+/* APLICACIONES - DOCUMENTOS FIN */
+
+/* fechas de cumpleaños */
+.lista-cumpleanios 
+{
+    display:inline-block;
+}
+.lista-cumpleanios .cumpleanios-contenedor
+{
+    display:block;
+    margin-bottom: 1px;
+    /*width:600px;*/
+}
+.lista-cumpleanios .cumpleanios-contenedor .cumpleanios-fechas
+{
+    display:inline;
+    float:right;
+    width:165px;
+}
+.lista-cumpleanios .cumpleanios-contenedor .cumpleanios-persona
+{
+    display:inline;
+    float:right;
+    width:490px;
+    overflow:hidden;
+}
+.lista-cumpleanios .cumpleanios-contenedor .cumpleanios-persona .cumpleanios-feliz
+{
+    margin-left:10px;
+    color:#e62b49;
+}
+/* fechas de cumpleaños */
+
+/* fechas de feriados naCIonales */
+.lista-feriados-naCIonales 
+{
+    display:inline-block;
+}
+.lista-feriados-naCIonales .feriados-naCIonales-contenedor
+{
+    display:block;
+    margin-bottom: 1px;
+    width:600px;
+}
+.lista-feriados-naCIonales .feriados-naCIonales-contenedor .feriados-naCIonales-fecha
+{
+    display:inline;
+    float:left;
+    width:165px;
+}
+.lista-feriados-naCIonales .feriados-naCIonales-contenedor .feriados-naCIonales-descripCIon
+{
+    display:inline;
+    float:left;
+    width:435px;
+    overflow:hidden;
+}
+.lista-feriados-naCIonales .feriados-naCIonales-contenedor .feriados-naCIonales-descripCIon .feriados-naCIonales-fecha-original
+{
+    margin-left:10px;
+    font-style:italic;    
+}
+/* fechas de feriados naCIonales */
+
+/*
+Color de celdas del calendario para feriados y cumpleaños
+*/
+.birthDay a.ui-state-default {
+    background: #7A86D9 !important;
+}
+
+.birthDay a.ui-state-hover {
+    background: orange !important;
+}
+
+.holiDay a.ui-state-default {
+    background: #7A86D9 !important;
+}
+
+.holiDay a.ui-state-hover {
+    background: orange !important;
+}
+
+.birthDay a.ui-state-highlight{
+    background: orange !important;
+}
+
+ .holiDay a.ui-state-highlight{
+    background: orange !important;
+}
+
+#tooltip{
+	position:absolute;
+	border:1px solid #333;
+	background:#f7f5d1;
+	padding:2px 5px;
+	color:#333;
+	display:none;
+	}	

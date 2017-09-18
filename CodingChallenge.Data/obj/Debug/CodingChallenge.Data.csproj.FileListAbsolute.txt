@@ -1,0 +1,57 @@
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\ListaTitulos.json
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll.config
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.pdb
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Castle.Core.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Moq.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\System.Web.Optimization.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\WebGrease.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Castle.Core.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Moq.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\System.Web.Optimization.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csprojResolveAssemblyReference.cache
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\ListaTitulos.json
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll.config
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Castle.Core.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Moq.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\System.Web.Optimization.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\WebGrease.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Castle.Core.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Moq.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data\bin\Debug\System.Web.Optimization.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\ListaTitulos.json
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll.config
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Antlr3.Runtime.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Castle.Core.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Moq.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\System.Web.Optimization.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\WebGrease.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Antlr3.Runtime.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Castle.Core.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Moq.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\bin\Debug\System.Web.Optimization.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csprojResolveAssemblyReference.cache
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb

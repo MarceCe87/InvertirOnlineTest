@@ -1,0 +1,50 @@
+﻿@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+@section scripts {
+    <script type="text/javascript">
+        CodingChallenge = {};
+        CodingChallenge.Urls = {
+            buscarDetallesTitulo: '@Url.Action("BuscarDetallesTitulo")',
+            buscarDescripcionesTitulos: '@Url.Action("BuscarDescripcionesTitulos")',
+            generarResumen: '@Url.Action("GenerarResumen")'
+        }
+    </script>    
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <script src="~/Scripts/Sitio/Home.js"></script>
+ }
+@section styles {
+    <link href="~/Content/css/sitio/home.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <style>
+        ul.ui-autocomplete { z-index: 1100; } 
+    </style>
+    <!--
+        
+    Modifica el zIndex, esta demasiado adelante!
+    -->
+}
+
+<main class="wrapper-home">
+    <h2>Resumen de Títulos</h2>
+    <div class="row">
+        <div class="col col-md-4">
+            <tr>
+                <td class="js-colDetalleTitulo"><a href="#" data-toggle="modal" data-target="#tituloDetalle"><span data-toggle="tooltip" title="">"Buscador de títulos"</span></a></td>
+            </tr>       
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col col-md-4">
+            <table class="table table-bordered table-condensed">
+                <tr>
+                    <td class="max" id="resumen"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</main>
+
+@Html.Partial("_TituloDetalle")

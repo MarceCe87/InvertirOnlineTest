@@ -1,0 +1,63 @@
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\obj\Debug\CodingChallenge.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\ListaTitulos.json
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.Tests.dll.config
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.Tests.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.Tests.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\WebGrease.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Moq.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Moq.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\obj\Debug\CodingChallenge.Data.Tests.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge.Data.Tests\obj\Debug\CodingChallenge.Data.Tests.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\ListaTitulos.json
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.Tests.dll.config
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.Tests.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.Tests.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\nunit.framework.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\WebGrease.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Moq.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Castle.Core.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\CodingChallenge.Data.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\nunit.framework.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Moq.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\bin\Debug\Castle.Core.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\obj\Debug\CodingChallenge.Data.Tests.csprojResolveAssemblyReference.cache
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\obj\Debug\CodingChallenge.Data.Tests.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge.Data.Tests\obj\Debug\CodingChallenge.Data.Tests.pdb

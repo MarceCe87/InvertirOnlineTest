@@ -1,0 +1,62 @@
+﻿//	--------------------------------------------------
+// :: Estilos para formularios
+// --------------------------------------------------
+@import "../bootstrap/variables.less";
+@import "../bootstrap/mixins.less";
+
+// Inhabilita la opcion de limpiar un input
+::-ms-clear {
+  display: none;
+}
+
+
+.forms {
+    select {
+        padding-left:5px;
+        padding-right:5px;
+    }
+    .mb-0 {
+        margin-bottom:0;
+    }
+    .mt-50 {
+        margin-top:50px;
+    }
+    .pr-0 {
+        padding-right:0;
+    }
+    .pr-5 {
+        padding-right:5px;
+    }
+    .pl-0 {
+        padding-left:0;
+    }
+    .cebrado {
+        margin-left:0;
+        padding:4px 0;
+        background-color:@gray-lighter;
+    }
+    .listado {
+        overflow-x:hidden;
+        overflow-y:auto;
+        max-height:440px;
+       .table {
+            margin:0;
+            .tac {
+                text-align:center;
+            }
+            span {
+                cursor:pointer;
+            }
+            .sin-seleccion {
+                font-style:italic;
+                color:@gray-dark;
+            }
+        }
+    }
+    .radio {
+       // padding-right:0; 
+        &+ .radio {
+            margin-top: 10px;
+        }
+    }
+}

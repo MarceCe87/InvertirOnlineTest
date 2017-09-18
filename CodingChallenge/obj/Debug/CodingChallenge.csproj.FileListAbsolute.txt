@@ -1,0 +1,198 @@
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\ApplicationInsights.config
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\csc.exe
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\vbc.exe
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\VBCSCompiler.exe
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\ListaTitulos.json
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.dll.config
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.pdb
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Antlr3.Runtime.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.Data.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Web.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Newtonsoft.Json.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Net.Http.Formatting.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Helpers.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.WebHost.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Mvc.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Optimization.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Razor.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Razor.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\WebGrease.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Moq.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Castle.Core.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.Data.pdb
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Antlr3.Runtime.pdb
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Web.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Optimization.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Razor.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Razor.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Helpers.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Mvc.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Newtonsoft.Json.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Net.Http.Formatting.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.WebHost.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Moq.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\bin\Castle.Core.xml
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.csprojResolveAssemblyReference.cache
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.dll
+C:\Users\mcereseto\Desktop\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\ApplicationInsights.config
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\csc.exe
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\vbc.exe
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\ListaTitulos.json
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.dll.config
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Antlr3.Runtime.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.Data.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Web.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Newtonsoft.Json.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Net.Http.Formatting.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Helpers.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.WebHost.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Mvc.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Optimization.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Razor.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Razor.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\WebGrease.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Moq.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Castle.Core.dll
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.Data.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Antlr3.Runtime.pdb
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Web.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Newtonsoft.Json.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Optimization.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Razor.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Razor.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Helpers.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Mvc.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Net.Http.Formatting.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.WebHost.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Moq.xml
+C:\Users\Marce\Desktop\CodingChallenge-master\CodingChallenge\bin\Castle.Core.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\ApplicationInsights.config
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\csc.exe
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\System.Collections.Immutable.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\vbc.exe
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\VBCSCompiler.exe
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\roslyn\VBCSCompiler.exe.config
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\ListaTitulos.json
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.dll.config
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Antlr3.Runtime.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.Data.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Web.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.WindowsServer.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.ApplicationInsights.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.Web.Infrastructure.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Newtonsoft.Json.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Net.Http.Formatting.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Helpers.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.WebHost.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Mvc.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Optimization.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Razor.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Deployment.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Razor.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\WebGrease.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Moq.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Castle.Core.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\CodingChallenge.Data.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Antlr3.Runtime.pdb
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.Web.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.AI.WindowsServer.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.ApplicationInsights.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Newtonsoft.Json.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Optimization.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Razor.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Deployment.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Webpages.Razor.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Helpers.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Mvc.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Net.Http.Formatting.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\System.Web.Http.WebHost.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Moq.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\bin\Castle.Core.xml
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.csprojResolveAssemblyReference.cache
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.dll
+D:\Desarrollos Marcelo\CodingChallenge-master\CodingChallenge\obj\Debug\CodingChallenge.pdb

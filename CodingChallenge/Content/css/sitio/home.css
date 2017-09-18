@@ -1,0 +1,32 @@
+@media (min-width: 1px) {
+  .col-md-4 {
+    float: left;
+    width: 33.33333333%;
+  }
+}
+.wrapper-home h2 {
+  margin-bottom: 40px;
+}
+.wrapper-home h6 {
+  margin-bottom: 30px;
+  margin-left: 15px;
+  color: #666;
+}
+.wrapper-home ul {
+  margin: 30px 0;
+}
+.wrapper-home ul li {
+  float: none !important;
+  margin: 2px 0;
+  padding: 10px 30px 10px 10px;
+  border-left: 5px solid #dbdbdb;
+}
+.wrapper-home ul li a {
+  color: #333333;
+}
+.wrapper-home ul li a:hover {
+  text-decoration: none;
+}
+.wrapper-home ul li:hover {
+  border-left-color: #d9534f;
+}
