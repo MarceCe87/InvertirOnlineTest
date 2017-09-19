@@ -11,11 +11,12 @@ namespace CodingChallenge.Data.DataAccess
 {
     public class ContextoDBIdiomas
     {
-        private const string JsonIdiomas = "\\ListaIdiomas.json";
+        private const string JsonIdiomas = ".Data\\ListaIdiomas.json";
 
         public List<Idioma> GetIdiomas()
         {
-            var json = File.ReadAllText(Directory.GetCurrentDirectory() + JsonIdiomas);
+            string exePath = $"{Path.GetDirectoryName(AppDomain.CurrentDomain.BaseDirectory)}{JsonIdiomas}";
+            var json = File.ReadAllText(exePath);
             return JsonConvert.DeserializeObject<List<Idioma>>(json).ToList();
         }
     }

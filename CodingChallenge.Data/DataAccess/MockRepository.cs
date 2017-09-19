@@ -3,6 +3,7 @@ using System.IO;
 using CodingChallenge.Data.Classes;
 using Moq;
 using Newtonsoft.Json;
+using System;
 
 namespace CodingChallenge.Data.DataAccess
 {
@@ -11,7 +12,7 @@ namespace CodingChallenge.Data.DataAccess
     /// </summary>
     public class MockRepository
     {
-        private const string JsonTitulos = "\\ListaTitulos.json";        
+        private const string JsonTitulos = ".Data\\ListaTitulos.json";        
 
         /// <summary>
         /// Para utilizar los métodos de acceso a Título.
@@ -22,7 +23,8 @@ namespace CodingChallenge.Data.DataAccess
         {
             var mockRepository = new Mock<ITitulosRepository>();
 
-            var json = File.ReadAllText(Directory.GetCurrentDirectory() + JsonTitulos);
+            string exePath = $"{Path.GetDirectoryName(AppDomain.CurrentDomain.BaseDirectory)}{JsonTitulos}";
+            var json = File.ReadAllText(exePath);
             var listaTitulos = JsonConvert.DeserializeObject<List<Titulo>>(json);
 
             mockRepository.Setup(mock => mock.GetTitulos()).Returns(listaTitulos);
